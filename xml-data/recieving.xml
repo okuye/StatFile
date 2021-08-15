@@ -1,0 +1,1006 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Teams>
+	<row>
+		<Player>"Kirk Merritt"</Player>
+		<Team>ARST</Team>
+		<Rec>83</Rec>
+		<Yds>"1</Yds>
+		<Avg>005"</Avg>
+		<Lg>12.11</Lg>
+		<TD>73t</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Justin McInnis"</Player>
+		<Team>ARST</Team>
+		<Rec>61</Rec>
+		<Yds>748</Yds>
+		<Avg>12.26</Avg>
+		<Lg>78t</Lg>
+		<TD>5</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jamarius Way"</Player>
+		<Team>USA</Team>
+		<Rec>61</Rec>
+		<Yds>855</Yds>
+		<Avg>14.02</Avg>
+		<Lg>73t</Lg>
+		<TD>8</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Damion Willis"</Player>
+		<Team>TROY</Team>
+		<Rec>56</Rec>
+		<Yds>876</Yds>
+		<Avg>15.64</Avg>
+		<Lg>75t</Lg>
+		<TD>10</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Keenen Brown"</Player>
+		<Team>TXST</Team>
+		<Rec>51</Rec>
+		<Yds>577</Yds>
+		<Avg>11.31</Avg>
+		<Lg>46t</Lg>
+		<TD>5</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Marcus Green"</Player>
+		<Team>ULM</Team>
+		<Rec>50</Rec>
+		<Yds>855</Yds>
+		<Avg>17.10</Avg>
+		<Lg>80t</Lg>
+		<TD>8</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Penny Hart"</Player>
+		<Team>GAST</Team>
+		<Rec>49</Rec>
+		<Yds>669</Yds>
+		<Avg>13.65</Avg>
+		<Lg>51</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Deondre Douglas"</Player>
+		<Team>TROY</Team>
+		<Rec>48</Rec>
+		<Yds>472</Yds>
+		<Avg>9.83</Avg>
+		<Lg>41</Lg>
+		<TD>7</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Malcolm Williams"</Player>
+		<Team>CCU</Team>
+		<Rec>47</Rec>
+		<Yds>724</Yds>
+		<Avg>15.40</Avg>
+		<Lg>61t</Lg>
+		<TD>5</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Ryheem Malone"</Player>
+		<Team>LA</Team>
+		<Rec>44</Rec>
+		<Yds>525</Yds>
+		<Avg>11.93</Avg>
+		<Lg>47</Lg>
+		<TD>4</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Corey Sutton"</Player>
+		<Team>APST</Team>
+		<Rec>44</Rec>
+		<Yds>773</Yds>
+		<Avg>17.57</Avg>
+		<Lg>90t</Lg>
+		<TD>10</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Sidney Davis"</Player>
+		<Team>TROY</Team>
+		<Rec>43</Rec>
+		<Yds>399</Yds>
+		<Avg>9.28</Avg>
+		<Lg>45t</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Ja'Marcus Bradley"</Player>
+		<Team>LA</Team>
+		<Rec>40</Rec>
+		<Yds>608</Yds>
+		<Avg>15.20</Avg>
+		<Lg>53</Lg>
+		<TD>10</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Omar Bayless"</Player>
+		<Team>ARST</Team>
+		<Rec>39</Rec>
+		<Yds>566</Yds>
+		<Avg>14.51</Avg>
+		<Lg>54t</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"RJ Turner"</Player>
+		<Team>ULM</Team>
+		<Rec>36</Rec>
+		<Yds>526</Yds>
+		<Avg>14.61</Avg>
+		<Lg>57</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Cornelius McCoy"</Player>
+		<Team>GAST</Team>
+		<Rec>35</Rec>
+		<Yds>495</Yds>
+		<Avg>14.14</Avg>
+		<Lg>45</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Hutch White"</Player>
+		<Team>TXST</Team>
+		<Rec>33</Rec>
+		<Yds>284</Yds>
+		<Avg>8.61</Avg>
+		<Lg>35</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Kawaan Baker"</Player>
+		<Team>USA</Team>
+		<Rec>33</Rec>
+		<Yds>494</Yds>
+		<Avg>14.97</Avg>
+		<Lg>51</Lg>
+		<TD>4</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jordan McCray"</Player>
+		<Team>USA</Team>
+		<Rec>29</Rec>
+		<Yds>273</Yds>
+		<Avg>9.41</Avg>
+		<Lg>34t</Lg>
+		<TD>4</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Thomas Hennigan"</Player>
+		<Team>APST</Team>
+		<Rec>29</Rec>
+		<Yds>327</Yds>
+		<Avg>11.28</Avg>
+		<Lg>33</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Markis McCray"</Player>
+		<Team>ULM</Team>
+		<Rec>27</Rec>
+		<Yds>304</Yds>
+		<Avg>11.26</Avg>
+		<Lg>41</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Warren Wand"</Player>
+		<Team>ARST</Team>
+		<Rec>26</Rec>
+		<Yds>213</Yds>
+		<Avg>8.19</Avg>
+		<Lg>28</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Ky'Jon Tyler"</Player>
+		<Team>CCU</Team>
+		<Rec>26</Rec>
+		<Yds>397</Yds>
+		<Avg>15.27</Avg>
+		<Lg>81t</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Trey Ragas"</Player>
+		<Team>LA</Team>
+		<Rec>25</Rec>
+		<Yds>229</Yds>
+		<Avg>9.16</Avg>
+		<Lg>30</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Tray Eafford"</Player>
+		<Team>TROY</Team>
+		<Rec>24</Rec>
+		<Yds>292</Yds>
+		<Avg>12.17</Avg>
+		<Lg>60t</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Tra Minter"</Player>
+		<Team>USA</Team>
+		<Rec>23</Rec>
+		<Yds>201</Yds>
+		<Avg>8.74</Avg>
+		<Lg>38</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Malik Williams"</Player>
+		<Team>APST</Team>
+		<Rec>23</Rec>
+		<Yds>257</Yds>
+		<Avg>11.17</Avg>
+		<Lg>38</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Dominique Heath"</Player>
+		<Team>APST</Team>
+		<Rec>23</Rec>
+		<Yds>304</Yds>
+		<Avg>13.22</Avg>
+		<Lg>64t</Lg>
+		<TD>5</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jabir Daughtry-Frye"</Player>
+		<Team>TROY</Team>
+		<Rec>22</Rec>
+		<Yds>235</Yds>
+		<Avg>10.68</Avg>
+		<Lg>35t</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Devin Gentry"</Player>
+		<Team>GAST</Team>
+		<Rec>22</Rec>
+		<Yds>286</Yds>
+		<Avg>13.00</Avg>
+		<Lg>46</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Derrick Gore"</Player>
+		<Team>ULM</Team>
+		<Rec>21</Rec>
+		<Yds>80</Yds>
+		<Avg>3.81</Avg>
+		<Lg>23</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jeremiah Miller"</Player>
+		<Team>CCU</Team>
+		<Rec>21</Rec>
+		<Yds>272</Yds>
+		<Avg>12.95</Avg>
+		<Lg>24t</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Elijah Mitchell"</Player>
+		<Team>LA</Team>
+		<Rec>20</Rec>
+		<Yds>349</Yds>
+		<Avg>17.45</Avg>
+		<Lg>64t</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Tyler Watts"</Player>
+		<Team>TXST</Team>
+		<Rec>19</Rec>
+		<Yds>186</Yds>
+		<Avg>9.79</Avg>
+		<Lg>69</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jarrod Jackson"</Player>
+		<Team>LA</Team>
+		<Rec>19</Rec>
+		<Yds>325</Yds>
+		<Avg>17.11</Avg>
+		<Lg>53t</Lg>
+		<TD>4</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jalen Virgil"</Player>
+		<Team>APST</Team>
+		<Rec>17</Rec>
+		<Yds>238</Yds>
+		<Avg>14.00</Avg>
+		<Lg>41</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jonathan Adams Jr."</Player>
+		<Team>ARST</Team>
+		<Rec>17</Rec>
+		<Yds>267</Yds>
+		<Avg>15.71</Avg>
+		<Lg>35t</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Caleb Twyford"</Player>
+		<Team>TXST</Team>
+		<Rec>16</Rec>
+		<Yds>121</Yds>
+		<Avg>7.56</Avg>
+		<Lg>23</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Matthew Barnes"</Player>
+		<Team>LA</Team>
+		<Rec>16</Rec>
+		<Yds>125</Yds>
+		<Avg>7.81</Avg>
+		<Lg>19t</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Marcel Murray"</Player>
+		<Team>ARST</Team>
+		<Rec>16</Rec>
+		<Yds>141</Yds>
+		<Avg>8.81</Avg>
+		<Lg>67t</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jeremiah Haydel"</Player>
+		<Team>TXST</Team>
+		<Rec>16</Rec>
+		<Yds>326</Yds>
+		<Avg>20.38</Avg>
+		<Lg>93t</Lg>
+		<TD>4</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Brandon Bowling"</Player>
+		<Team>ARST</Team>
+		<Rec>15</Rec>
+		<Yds>108</Yds>
+		<Avg>7.20</Avg>
+		<Lg>26</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Roger Carter"</Player>
+		<Team>GAST</Team>
+		<Rec>15</Rec>
+		<Yds>136</Yds>
+		<Avg>9.07</Avg>
+		<Lg>20</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"CJ Marable"</Player>
+		<Team>CCU</Team>
+		<Rec>15</Rec>
+		<Yds>180</Yds>
+		<Avg>12.00</Avg>
+		<Lg>48</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Wesley Kennedy III"</Player>
+		<Team>GSU</Team>
+		<Rec>15</Rec>
+		<Yds>182</Yds>
+		<Avg>12.13</Avg>
+		<Lg>40</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Tra Barnett"</Player>
+		<Team>GAST</Team>
+		<Rec>14</Rec>
+		<Yds>70</Yds>
+		<Avg>5.00</Avg>
+		<Lg>15</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Sloan Spiller"</Player>
+		<Team>ULM</Team>
+		<Rec>14</Rec>
+		<Yds>119</Yds>
+		<Avg>8.50</Avg>
+		<Lg>17</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Henry Pearson"</Player>
+		<Team>APST</Team>
+		<Rec>14</Rec>
+		<Yds>160</Yds>
+		<Avg>11.43</Avg>
+		<Lg>26</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jaivon Heiligh"</Player>
+		<Team>CCU</Team>
+		<Rec>14</Rec>
+		<Yds>202</Yds>
+		<Avg>14.43</Avg>
+		<Lg>28</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Deonta Moore"</Player>
+		<Team>USA</Team>
+		<Rec>12</Rec>
+		<Yds>53</Yds>
+		<Avg>4.42</Avg>
+		<Lg>14</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Darrynton Evans"</Player>
+		<Team>APST</Team>
+		<Rec>12</Rec>
+		<Yds>87</Yds>
+		<Avg>7.25</Avg>
+		<Lg>25</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Isaiah Likely"</Player>
+		<Team>CCU</Team>
+		<Rec>12</Rec>
+		<Yds>106</Yds>
+		<Avg>8.83</Avg>
+		<Lg>31t</Lg>
+		<TD>5</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Josh Pederson"</Player>
+		<Team>ULM</Team>
+		<Rec>12</Rec>
+		<Yds>121</Yds>
+		<Avg>10.08</Avg>
+		<Lg>34t</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Christian Owens"</Player>
+		<Team>GAST</Team>
+		<Rec>12</Rec>
+		<Yds>128</Yds>
+		<Avg>10.67</Avg>
+		<Lg>21t</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Collin Reed"</Player>
+		<Team>APST</Team>
+		<Rec>12</Rec>
+		<Yds>134</Yds>
+		<Avg>11.17</Avg>
+		<Lg>43</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Tamir Jones"</Player>
+		<Team>GAST</Team>
+		<Rec>12</Rec>
+		<Yds>162</Yds>
+		<Avg>13.50</Avg>
+		<Lg>54</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Keenan Barnes"</Player>
+		<Team>LA</Team>
+		<Rec>12</Rec>
+		<Yds>166</Yds>
+		<Avg>13.83</Avg>
+		<Lg>41</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Kendrick Edwards"</Player>
+		<Team>ARST</Team>
+		<Rec>12</Rec>
+		<Yds>197</Yds>
+		<Avg>16.42</Avg>
+		<Lg>39</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Luke Whittemore"</Player>
+		<Team>TROY</Team>
+		<Rec>12</Rec>
+		<Yds>200</Yds>
+		<Avg>16.67</Avg>
+		<Lg>41</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Javonis Isaac"</Player>
+		<Team>ARST</Team>
+		<Rec>12</Rec>
+		<Yds>210</Yds>
+		<Avg>17.50</Avg>
+		<Lg>57t</Lg>
+		<TD>4</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Earnest Patterson"</Player>
+		<Team>LA</Team>
+		<Rec>12</Rec>
+		<Yds>212</Yds>
+		<Avg>17.67</Avg>
+		<Lg>26</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"D'Marius Gillespie"</Player>
+		<Team>ULM</Team>
+		<Rec>12</Rec>
+		<Yds>225</Yds>
+		<Avg>18.75</Avg>
+		<Lg>50</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Marcus Outlow"</Player>
+		<Team>CCU</Team>
+		<Rec>11</Rec>
+		<Yds>70</Yds>
+		<Avg>6.36</Avg>
+		<Lg>15</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Xavier Brown"</Player>
+		<Team>ULM</Team>
+		<Rec>11</Rec>
+		<Yds>158</Yds>
+		<Avg>14.36</Avg>
+		<Lg>44</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Zachari Jackson"</Player>
+		<Team>ULM</Team>
+		<Rec>11</Rec>
+		<Yds>160</Yds>
+		<Avg>14.55</Avg>
+		<Lg>36</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Reed Tyler"</Player>
+		<Team>ARST</Team>
+		<Rec>10</Rec>
+		<Yds>52</Yds>
+		<Avg>5.20</Avg>
+		<Lg>18</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Ellis Richardson"</Player>
+		<Team>GSU</Team>
+		<Rec>10</Rec>
+		<Yds>81</Yds>
+		<Avg>8.10</Avg>
+		<Lg>31</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Javen Banks"</Player>
+		<Team>TXST</Team>
+		<Rec>10</Rec>
+		<Yds>161</Yds>
+		<Avg>16.10</Avg>
+		<Lg>42t</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Wesley Fields"</Player>
+		<Team>GSU</Team>
+		<Rec>10</Rec>
+		<Yds>237</Yds>
+		<Avg>23.70</Avg>
+		<Lg>61t</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Kayin White"</Player>
+		<Team>ULM</Team>
+		<Rec>9</Rec>
+		<Yds>57</Yds>
+		<Avg>6.33</Avg>
+		<Lg>13</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Destin Coates"</Player>
+		<Team>GAST</Team>
+		<Rec>9</Rec>
+		<Yds>85</Yds>
+		<Avg>9.44</Avg>
+		<Lg>50</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"B.J. Smith"</Player>
+		<Team>TROY</Team>
+		<Rec>9</Rec>
+		<Yds>105</Yds>
+		<Avg>11.67</Avg>
+		<Lg>19</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Mason Hays"</Player>
+		<Team>TXST</Team>
+		<Rec>9</Rec>
+		<Yds>122</Yds>
+		<Avg>13.56</Avg>
+		<Lg>38</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Richard Hallman"</Player>
+		<Team>TROY</Team>
+		<Rec>8</Rec>
+		<Yds>53</Yds>
+		<Avg>6.62</Avg>
+		<Lg>20</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Anthony D. Taylor"</Player>
+		<Team>TXST</Team>
+		<Rec>8</Rec>
+		<Yds>63</Yds>
+		<Avg>7.88</Avg>
+		<Lg>16</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Austin Vaughn"</Player>
+		<Team>ULM</Team>
+		<Rec>8</Rec>
+		<Yds>76</Yds>
+		<Avg>9.50</Avg>
+		<Lg>16</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Davarius Bargnare"</Player>
+		<Team>GSU</Team>
+		<Rec>8</Rec>
+		<Yds>77</Yds>
+		<Avg>9.62</Avg>
+		<Lg>23</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"T.J. Bedford"</Player>
+		<Team>TXST</Team>
+		<Rec>8</Rec>
+		<Yds>90</Yds>
+		<Avg>11.25</Avg>
+		<Lg>19</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Shadell Bell"</Player>
+		<Team>CCU</Team>
+		<Rec>8</Rec>
+		<Yds>103</Yds>
+		<Avg>12.88</Avg>
+		<Lg>26</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Malik Stanley"</Player>
+		<Team>USA</Team>
+		<Rec>8</Rec>
+		<Yds>110</Yds>
+		<Avg>13.75</Avg>
+		<Lg>26</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Robert Brown Jr."</Player>
+		<Team>TXST</Team>
+		<Rec>7</Rec>
+		<Yds>34</Yds>
+		<Avg>4.86</Avg>
+		<Lg>14</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jonathan Hodoh"</Player>
+		<Team>ULM</Team>
+		<Rec>7</Rec>
+		<Yds>64</Yds>
+		<Avg>9.14</Avg>
+		<Lg>29t</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Diondre Champaigne"</Player>
+		<Team>GAST</Team>
+		<Rec>7</Rec>
+		<Yds>66</Yds>
+		<Avg>9.43</Avg>
+		<Lg>20t</Lg>
+		<TD>3</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Brandius Batiste"</Player>
+		<Team>ULM</Team>
+		<Rec>7</Rec>
+		<Yds>99</Yds>
+		<Avg>14.14</Avg>
+		<Lg>27t</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Maurice Mayo"</Player>
+		<Team>USA</Team>
+		<Rec>6</Rec>
+		<Yds>19</Yds>
+		<Avg>3.17</Avg>
+		<Lg>8</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jamal Bell"</Player>
+		<Team>LA</Team>
+		<Rec>6</Rec>
+		<Yds>38</Yds>
+		<Avg>6.33</Avg>
+		<Lg>18t</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jalin Moore"</Player>
+		<Team>APST</Team>
+		<Rec>6</Rec>
+		<Yds>40</Yds>
+		<Avg>6.67</Avg>
+		<Lg>14</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Seth Paige"</Player>
+		<Team>GAST</Team>
+		<Rec>6</Rec>
+		<Yds>61</Yds>
+		<Avg>10.17</Avg>
+		<Lg>16</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Johnny Lumpkin"</Player>
+		<Team>LA</Team>
+		<Rec>6</Rec>
+		<Yds>67</Yds>
+		<Avg>11.17</Avg>
+		<Lg>27</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jah’Marae Sheread"</Player>
+		<Team>TXST</Team>
+		<Rec>6</Rec>
+		<Yds>67</Yds>
+		<Avg>11.17</Avg>
+		<Lg>37</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Raymond Calais"</Player>
+		<Team>LA</Team>
+		<Rec>6</Rec>
+		<Yds>69</Yds>
+		<Avg>11.50</Avg>
+		<Lg>45</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Jonathan Ifedi"</Player>
+		<Team>GAST</Team>
+		<Rec>6</Rec>
+		<Yds>71</Yds>
+		<Avg>11.83</Avg>
+		<Lg>28</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Colby Ransom"</Player>
+		<Team>GSU</Team>
+		<Rec>6</Rec>
+		<Yds>102</Yds>
+		<Avg>17.00</Avg>
+		<Lg>58t</Lg>
+		<TD>2</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Monteo Garrett"</Player>
+		<Team>GSU</Team>
+		<Rec>5</Rec>
+		<Yds>20</Yds>
+		<Avg>4.00</Avg>
+		<Lg>6</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Alex James"</Player>
+		<Team>CCU</Team>
+		<Rec>5</Rec>
+		<Yds>26</Yds>
+		<Avg>5.20</Avg>
+		<Lg>9</Lg>
+		<TD>1</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Marcus Jones"</Player>
+		<Team>TROY</Team>
+		<Rec>5</Rec>
+		<Yds>28</Yds>
+		<Avg>5.60</Avg>
+		<Lg>11</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Brad Absher"</Player>
+		<Team>APST</Team>
+		<Rec>5</Rec>
+		<Yds>30</Yds>
+		<Avg>6.00</Avg>
+		<Lg>10</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Elijah Rogers"</Player>
+		<Team>TXST</Team>
+		<Rec>5</Rec>
+		<Yds>36</Yds>
+		<Avg>7.20</Avg>
+		<Lg>11</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Taz Bateman"</Player>
+		<Team>GAST</Team>
+		<Rec>5</Rec>
+		<Yds>37</Yds>
+		<Avg>7.40</Avg>
+		<Lg>14</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player>"Tyler Lamm"</Player>
+		<Team>ULM</Team>
+		<Rec>5</Rec>
+		<Yds>40</Yds>
+		<Avg>8.00</Avg>
+		<Lg>16</Lg>
+		<TD>0</TD>
+		<StatType>Receiving</StatType>
+	</row>
+	<row>
+		<Player></Player>
+	</row>
+</Teams>

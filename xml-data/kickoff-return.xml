@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Teams>
+	<row>
+		<Player>Raymond Calais</Player>
+		<Team>LA</Team>
+		<Num>35</Num>
+		<Yds>908</Yds>
+		<Avg>25.94</Avg>
+		<FC>0</FC>
+		<Lg>61</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Tra Minter</Player>
+		<Team>USA</Team>
+		<Num>29</Num>
+		<Yds>710</Yds>
+		<Avg>24.48</Avg>
+		<FC>4</FC>
+		<Lg>56</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Marcus Jones</Player>
+		<Team>TROY</Team>
+		<Num>23</Num>
+		<Yds>584</Yds>
+		<Avg>25.39</Avg>
+		<FC>0</FC>
+		<Lg>96t</Lg>
+		<TD>1</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Wesley Kennedy III</Player>
+		<Team>GSU</Team>
+		<Num>24</Num>
+		<Yds>529</Yds>
+		<Avg>22.04</Avg>
+		<FC>8</FC>
+		<Lg>62</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Darrynton Evans</Player>
+		<Team>APST</Team>
+		<Num>15</Num>
+		<Yds>490</Yds>
+		<Avg>32.67</Avg>
+		<FC>2</FC>
+		<Lg>100t</Lg>
+		<TD>1</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Marcus Green</Player>
+		<Team>ULM</Team>
+		<Num>19</Num>
+		<Yds>385</Yds>
+		<Avg>20.26</Avg>
+		<FC>1</FC>
+		<Lg>43</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Ky'Jon Tyler</Player>
+		<Team>CCU</Team>
+		<Num>16</Num>
+		<Yds>348</Yds>
+		<Avg>21.75</Avg>
+		<FC>0</FC>
+		<Lg>39</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Jabir Daughtry-Frye</Player>
+		<Team>TROY</Team>
+		<Num>13</Num>
+		<Yds>329</Yds>
+		<Avg>25.31</Avg>
+		<FC>3</FC>
+		<Lg>46</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Penny Hart</Player>
+		<Team>GAST</Team>
+		<Num>15</Num>
+		<Yds>299</Yds>
+		<Avg>19.93</Avg>
+		<FC>30</FC>
+		<Lg>32</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Ja'Marcus Bradley</Player>
+		<Team>LA</Team>
+		<Num>13</Num>
+		<Yds>263</Yds>
+		<Avg>20.23</Avg>
+		<FC>0</FC>
+		<Lg>53</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Jeremiah Haydel</Player>
+		<Team>TXST</Team>
+		<Num>10</Num>
+		<Yds>243</Yds>
+		<Avg>24.3</Avg>
+		<FC>3</FC>
+		<Lg>50</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Kirk Merritt</Player>
+		<Team>ARST</Team>
+		<Num>11</Num>
+		<Yds>239</Yds>
+		<Avg>21.73</Avg>
+		<FC>1</FC>
+		<Lg>50</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Tyler Watts</Player>
+		<Team>TXST</Team>
+		<Num>11</Num>
+		<Yds>209</Yds>
+		<Avg>19</Avg>
+		<FC>3</FC>
+		<Lg>39</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Markis McCray</Player>
+		<Team>ULM</Team>
+		<Num>10</Num>
+		<Yds>183</Yds>
+		<Avg>18.3</Avg>
+		<FC>0</FC>
+		<Lg>28</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Marcel Murray</Player>
+		<Team>ARST</Team>
+		<Num>9</Num>
+		<Yds>180</Yds>
+		<Avg>20</Avg>
+		<FC>4</FC>
+		<Lg>28</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Warren Wand</Player>
+		<Team>ARST</Team>
+		<Num>6</Num>
+		<Yds>153</Yds>
+		<Avg>25.5</Avg>
+		<FC>2</FC>
+		<Lg>91</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Thomas Hennigan</Player>
+		<Team>APST</Team>
+		<Num>6</Num>
+		<Yds>121</Yds>
+		<Avg>20.17</Avg>
+		<FC>0</FC>
+		<Lg>37</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Demari Medley</Player>
+		<Team>ARST</Team>
+		<Num>5</Num>
+		<Yds>110</Yds>
+		<Avg>22</Avg>
+		<FC>4</FC>
+		<Lg>37</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Kawaan Baker</Player>
+		<Team>USA</Team>
+		<Num>5</Num>
+		<Yds>94</Yds>
+		<Avg>18.8</Avg>
+		<FC>0</FC>
+		<Lg>24</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>CJ Marable</Player>
+		<Team>CCU</Team>
+		<Num>4</Num>
+		<Yds>76</Yds>
+		<Avg>19</Avg>
+		<FC>0</FC>
+		<Lg>26</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Jah’Marae Sheread</Player>
+		<Team>TXST</Team>
+		<Num>2</Num>
+		<Yds>67</Yds>
+		<Avg>33.5</Avg>
+		<FC>0</FC>
+		<Lg>54</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Jai Williams</Player>
+		<Team>CCU</Team>
+		<Num>4</Num>
+		<Yds>54</Yds>
+		<Avg>13.5</Avg>
+		<FC>0</FC>
+		<Lg>17</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Brandius Batiste</Player>
+		<Team>ULM</Team>
+		<Num>3</Num>
+		<Yds>51</Yds>
+		<Avg>17</Avg>
+		<FC>1</FC>
+		<Lg>41</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Alvin Pacheco</Player>
+		<Team>TXST</Team>
+		<Num>3</Num>
+		<Yds>49</Yds>
+		<Avg>16.33</Avg>
+		<FC>0</FC>
+		<Lg>24</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Devin Gentry</Player>
+		<Team>GAST</Team>
+		<Num>2</Num>
+		<Yds>47</Yds>
+		<Avg>23.5</Avg>
+		<FC>5</FC>
+		<Lg>30</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Earnest Patterson</Player>
+		<Team>LA</Team>
+		<Num>2</Num>
+		<Yds>36</Yds>
+		<Avg>18</Avg>
+		<FC>0</FC>
+		<Lg>22</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Malcolm Williams</Player>
+		<Team>CCU</Team>
+		<Num>2</Num>
+		<Yds>36</Yds>
+		<Avg>18</Avg>
+		<FC>0</FC>
+		<Lg>21</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Clifton Duck</Player>
+		<Team>APST</Team>
+		<Num>1</Num>
+		<Yds>29</Yds>
+		<Avg>29</Avg>
+		<FC>0</FC>
+		<Lg>29</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Perry Carter</Player>
+		<Team>ULM</Team>
+		<Num>1</Num>
+		<Yds>28</Yds>
+		<Avg>28</Avg>
+		<FC>0</FC>
+		<Lg>28</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Khameron Taylor</Player>
+		<Team>USA</Team>
+		<Num>3</Num>
+		<Yds>23</Yds>
+		<Avg>7.67</Avg>
+		<FC>1</FC>
+		<Lg>14</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>NaJee Thompson</Player>
+		<Team>GSU</Team>
+		<Num>1</Num>
+		<Yds>18</Yds>
+		<Avg>18</Avg>
+		<FC>1</FC>
+		<Lg>18</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Derrick Gore</Player>
+		<Team>ULM</Team>
+		<Num>1</Num>
+		<Yds>17</Yds>
+		<Avg>17</Avg>
+		<FC>0</FC>
+		<Lg>17</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Monquavion Brinson</Player>
+		<Team>GSU</Team>
+		<Num>1</Num>
+		<Yds>16</Yds>
+		<Avg>16</Avg>
+		<FC>0</FC>
+		<Lg>16</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Silas Kelly</Player>
+		<Team>CCU</Team>
+		<Num>1</Num>
+		<Yds>16</Yds>
+		<Avg>16</Avg>
+		<FC>0</FC>
+		<Lg>16</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>James Heft</Player>
+		<Team>CCU</Team>
+		<Num>2</Num>
+		<Yds>16</Yds>
+		<Avg>8</Avg>
+		<FC>0</FC>
+		<Lg>9</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Larance Shaw</Player>
+		<Team>ULM</Team>
+		<Num>1</Num>
+		<Yds>13</Yds>
+		<Avg>13</Avg>
+		<FC>0</FC>
+		<Lg>13</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Caleb Twyford</Player>
+		<Team>TXST</Team>
+		<Num>1</Num>
+		<Yds>13</Yds>
+		<Avg>13</Avg>
+		<FC>0</FC>
+		<Lg>13</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>B.J. Smith</Player>
+		<Team>TROY</Team>
+		<Num>1</Num>
+		<Yds>12</Yds>
+		<Avg>12</Avg>
+		<FC>0</FC>
+		<Lg>12</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Jacqez Hairston</Player>
+		<Team>CCU</Team>
+		<Num>1</Num>
+		<Yds>11</Yds>
+		<Avg>11</Avg>
+		<FC>0</FC>
+		<Lg>11</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Zac Crosby</Player>
+		<Team>USA</Team>
+		<Num>1</Num>
+		<Yds>10</Yds>
+		<Avg>10</Avg>
+		<FC>0</FC>
+		<Lg>10</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>John Lilly</Player>
+		<Team>TXST</Team>
+		<Num>1</Num>
+		<Yds>10</Yds>
+		<Avg>10</Avg>
+		<FC>0</FC>
+		<Lg>10</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Jaiden Clayton</Player>
+		<Team>CCU</Team>
+		<Num>1</Num>
+		<Yds>8</Yds>
+		<Avg>8</Avg>
+		<FC>0</FC>
+		<Lg>8</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Mason Husmann</Player>
+		<Team>ULM</Team>
+		<Num>1</Num>
+		<Yds>7</Yds>
+		<Avg>7</Avg>
+		<FC>0</FC>
+		<Lg>7</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Darreon Jackson</Player>
+		<Team>ARST</Team>
+		<Num>1</Num>
+		<Yds>7</Yds>
+		<Avg>7</Avg>
+		<FC>0</FC>
+		<Lg>7</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Sam Miller</Player>
+		<Team>ULM</Team>
+		<Num>1</Num>
+		<Yds>5</Yds>
+		<Avg>5</Avg>
+		<FC>0</FC>
+		<Lg>5</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Montae Barto</Player>
+		<Team>TROY</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Keenen Brown</Player>
+		<Team>TXST</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Javonis Isaac</Player>
+		<Team>ARST</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>2</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Ryheem Malone</Player>
+		<Team>LA</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Justin McInnis</Player>
+		<Team>ARST</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Terik Miller</Player>
+		<Team>LA</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Collin Reed</Player>
+		<Team>APST</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>3</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Darius Rodrigue</Player>
+		<Team>ULM</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Cedarius Rookard</Player>
+		<Team>TROY</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Caleb Spurlin</Player>
+		<Team>APST</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+	<row>
+		<Player>Armond Weh-Weh</Player>
+		<Team>ARST</Team>
+		<Num>0</Num>
+		<Yds>0</Yds>
+		<Avg>0</Avg>
+		<FC>1</FC>
+		<Lg>0</Lg>
+		<TD>0</TD>
+		<StatType>Kickoff Return</StatType>
+	</row>
+</Teams>
