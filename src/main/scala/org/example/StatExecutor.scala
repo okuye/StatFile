@@ -16,9 +16,12 @@ object StatExecutor {
 
     try {
 
-      println(s"Stat is : ${args(0)}")
-      println(s"Path is : ${args(1)}")
-      getData(args(1))
+      if (!args(0).contains("defence") && !args(0).contains("kickoff-return") && !args(0).contains("recieving")) {
+        println("The statistic you have provided can not be computed \nThis program computes the following stats :\ndefence\nkickoff-return\nrecieving")
+        System.exit(0)
+      }
+
+      getData(args(0), args(1))
 
     } catch {
       case ex: FileNotFoundException => {
