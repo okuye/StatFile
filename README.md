@@ -26,9 +26,11 @@ Sun Belt
 
 # Structure 
 
-The xml-data is where the xml files this program uses.<br>
+The xml-data is where the three xml files this program uses.<br>
 The executable jar "StatFile-xx.0-SNAPSHOT.jar" exists in the root directory of where this program is extracted or downloaded to.<br>
+The **_run_statfile.sh_** exists in the root directory of the program.
 
+# Running the program
 **_run_statfile.sh_** : This is used to start the pipe line and requires two parameters **_statistic_** like : 
 <ul>
 <li>defence</li>
@@ -37,9 +39,7 @@ The executable jar "StatFile-xx.0-SNAPSHOT.jar" exists in the root directory of 
 </ul>
 
 and the **_path_** to the location of the file being processed.
-# Requirements
 
-To run the pipeline simply run the script named **_run_statfile.sh_** 
 
 
 
