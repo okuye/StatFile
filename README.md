@@ -50,13 +50,12 @@ The following files exist within the root directory of the program : <br>
 <li>**_build_statfile.sh_** - is used to build the program</li>
 </ul>
 
-
 # Building the program
 Simply run the execute the **_build_statfile.sh_**  file i.e. <b>./build_statfile.sh</b><br>
 The build file does the following : <br>
 
 <li>creates a jar in target folder<br>
-mavn package</li>
+mvn package</li>
 
 # Running the program
 **_run_statfile.sh_** - This is used to start the pipe line and requires two parameters **_statistic_** such as  :
