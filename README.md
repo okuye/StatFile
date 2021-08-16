@@ -1,4 +1,6 @@
-# Task 
+# TeamsStats
+
+# Task
 Write a program that:
 1. Can be executed with command line: java -cp ... xxx.jar. It should accept two parameters:
    a. type of statistic to check
@@ -12,7 +14,7 @@ Write a program that:
    a. how to build the application - this should be a single command
    b. how to run the application - this should be a single command
 
-# Assumptions and Limitations 
+# Assumptions and Limitations
 This program assumes at least maven 2 is installed <br>
 I could not get hold of a dataset that had a TEAM_SIDE element (question 3), making the output look like :<br>
 <TEAM_NAME><SUM_OF_STATISTIC_VALUES>
@@ -20,9 +22,14 @@ I could not get hold of a dataset that had a TEAM_SIDE element (question 3), mak
 This program is useful for reading simple xml . Complex xml files can be best dealt with using scala.xml.XML along with rdd's .<br>
 Thoughtwork's API com.thoughtworks.xstream API can also be used for complex XML.<br>
 
-### Note 
+The output of **_Question3_** will be written to the **_outPutDataRePartitioned_** directoy .<br>
+It will be in the format part-00000-xxx-xxx-xxx-xxx-xxx-xxx.xml with the limitation of not being well formed.
+
+The exception handling could be made a lot more elegant.
+
+### Note
 I could not get hold of xml data so I converted the following into xml.<br>
-**_Source:_** 
+**_Source:_**
 2018 College Football Statistics
 Sun Belt
 
@@ -33,7 +40,7 @@ Sun Belt
 2018 Sun Belt Kickoff-return Statistics (CSV) :
 <br>**_https://sports-statistics.com/database/college-football-stats-csv/2018/sun-belt/kickoff-return.csv_**
 
-# Structure 
+# Structure
 
 The **_xml-data_** directory is where the three xml files this program uses.<br>
 The following files exist within the root directory of the program : <br>
@@ -57,7 +64,7 @@ mvn install</li>
 </ul>
 
 # Running the program
-**_run_statfile.sh_** - This is used to start the pipe line and requires two parameters **_statistic_** such as  : 
+**_run_statfile.sh_** - This is used to start the pipe line and requires two parameters **_statistic_** such as  :
 <ul>
 <li>defence</li>
 <li>kickoff-return</li>
@@ -70,3 +77,4 @@ i.e. <b>./run_statfile.sh defence  /temp/defence.xml</b>
 
 
 
+ 
