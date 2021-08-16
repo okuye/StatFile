@@ -36,6 +36,7 @@ object Structure {
 
     df.printSchema()
 
+    //Drop all cells with nulls
     val ranked = df.na.drop().withColumn("rank", rank().over(Window.partitionBy("Team").orderBy(col(searchCol).desc)))
       .filter(col("rank") <= 5)
 

@@ -17,15 +17,21 @@ This program assumes at least maven 2 is installed <br>
 I could not get hold of a dataset that had a TEAM_SIDE element (question 3), making the output look like :<br>
 <TEAM_NAME><SUM_OF_STATISTIC_VALUES>
 
+This program is useful for reading simple xml . Complex xml files can be best dealt with using scala.xml.XML along with rdd's .<br>
+Thoughtwork's API com.thoughtworks.xstream API can also be used for complex XML.<br>
+
 ### Note 
 I could not get hold of xml data so I converted the following into xml.<br>
 **_Source:_** 
 2018 College Football Statistics
 Sun Belt
 
-2018 Sun Belt Receiving Statistics (CSV) **_https://sports-statistics.com/database/college-football-stats-csv/2018/sun-belt/receiving.csv_** <br>
-2018 Sun Belt Defense Statistics (CSV) **_https://sports-statistics.com/database/college-football-stats-csv/2018/sun-belt/defense.csv_** <br>
-2018 Sun Belt Kickoff-return Statistics (CSV) **_https://sports-statistics.com/database/college-football-stats-csv/2018/sun-belt/kickoff-return.csv_**
+2018 Sun Belt Receiving Statistics (CSV) :<br>
+**_https://sports-statistics.com/database/college-football-stats-csv/2018/sun-belt/receiving.csv_** <br>
+2018 Sun Belt Defense Statistics (CSV) :
+<br>**_https://sports-statistics.com/database/college-football-stats-csv/2018/sun-belt/defense.csv_** <br>
+2018 Sun Belt Kickoff-return Statistics (CSV) :
+<br>**_https://sports-statistics.com/database/college-football-stats-csv/2018/sun-belt/kickoff-return.csv_**
 
 # Structure 
 
