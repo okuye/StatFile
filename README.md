@@ -13,9 +13,9 @@ Write a program that:
    b. how to run the application - this should be a single command
 
 # Assumptions and Limitations 
+This program assumes at least maven 2 is installed <br>
 I could not get hold of a dataset that had a TEAM_SIDE element (question 3), making the output look like :<br>
 <TEAM_NAME><SUM_OF_STATISTIC_VALUES>
-
 
 ### Note 
 I could not get hold of xml data so I converted the following into xml.<br>
@@ -30,18 +30,36 @@ Sun Belt
 # Structure 
 
 The **_xml-data_** directory is where the three xml files this program uses.<br>
-The executable jar **_"StatFile-xx.0-SNAPSHOT.jar"_** exists in the root directory of where this program is extracted or downloaded to.<br>
-The **_run_statfile.sh_** also exists in the root directory of the program.
+The following files exist within the root directory of the program : <br>
+<ul>
+<li>jar **_"StatFile-xx.0-SNAPSHOT.jar"_** - The is an executable jar of the program</li>
+<li>**_run_statfile.sh_** - is used to run the program</li>
+<li>**_build_statfile.sh_** - is used to build the program</li>
+</ul>
+
+
+# Building the program
+Simply run the execute the **_build_statfile.sh_**  file i.e. <b>./build_statfile.sh</b><br>
+The build file does the following : <br>
+<ul>
+<li>compiles java classes <br>
+mvn compile</li>
+<li>creates a jar in target folder<br>
+mavn package</li>
+<li>creates a jar in target folder and adds to your local .m2 repository<br>
+mvn install</li>
+</ul>
 
 # Running the program
-**_run_statfile.sh_** : This is used to start the pipe line and requires two parameters **_statistic_** like : 
+**_run_statfile.sh_** - This is used to start the pipe line and requires two parameters **_statistic_** such as  : 
 <ul>
 <li>defence</li>
 <li>kickoff-return</li>
 <li>recieving</li>
 </ul>
 
-and the **_path_** to the location of the file being processed.
+and the **_path_** to the location of the file being processed.<br>
+i.e. <b>./run_statfile.sh defence  /temp/defence.xml</b> 
 
 
 

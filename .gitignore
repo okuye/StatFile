@@ -3,3 +3,6 @@
 /.idea/
 /.DS_Store/
 .DS_Store
+../outPutData/
+/outPutData/
+/outPutDataRePartitioned/
