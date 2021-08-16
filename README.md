@@ -54,14 +54,9 @@ The following files exist within the root directory of the program : <br>
 # Building the program
 Simply run the execute the **_build_statfile.sh_**  file i.e. <b>./build_statfile.sh</b><br>
 The build file does the following : <br>
-<ul>
-<li>compiles java classes <br>
-mvn compile</li>
+
 <li>creates a jar in target folder<br>
 mavn package</li>
-<li>creates a jar in target folder and adds to your local .m2 repository<br>
-mvn install</li>
-</ul>
 
 # Running the program
 **_run_statfile.sh_** - This is used to start the pipe line and requires two parameters **_statistic_** such as  :
